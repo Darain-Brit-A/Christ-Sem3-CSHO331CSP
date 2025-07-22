@@ -1,4 +1,4 @@
-# Day 3: Kali Linux Basics
+# Day 3: Kali Linux Basics and Windows Hacking
 
 ## Introduction
 
@@ -28,6 +28,7 @@ During the class, I explored and executed several basic commands in the Kali Lin
 | `touch`       | Creates a new empty file            |<img width="260" height="115" alt="image" src="https://github.com/user-attachments/assets/6c7831d1-1d23-448b-900b-c260df7e28da" />|
 | `man`         | Opens the manual page for a command |<img width="1901" height="820" alt="image" src="https://github.com/user-attachments/assets/3dd22427-3379-4fe1-9e39-e723db208ae1" /> <img width="176" height="42" alt="image" src="https://github.com/user-attachments/assets/04c9d7ed-1022-4f87-b857-806a9f63d58d" />|
 | `echo`        | Prints a message to terminal        |<img width="193" height="62" alt="image" src="https://github.com/user-attachments/assets/8e226830-3c15-4aa6-8f8e-eaafe4ff54da" />|
-| `chmod`       | Changes file permissions            ||
+| `chmod`       | Changes file permissions            |<img width="396" height="131" alt="image" src="https://github.com/user-attachments/assets/dea146ba-5992-4a18-9c17-d82be1052da6" /> <br> Octal Represtation on how to change:<img width="634" height="333" alt="image" src="https://github.com/user-attachments/assets/2eb173cc-384a-4932-83ce-b33d87d373dc" />|
 | `clear`       | Clears terminal screen              |Before:<img width="1048" height="897" alt="image" src="https://github.com/user-attachments/assets/84b275cc-ab8b-44bf-baef-d9404e5860c0" /> After:<img width="1057" height="302" alt="image" src="https://github.com/user-attachments/assets/45a1d878-5970-4c74-9047-44c41338ad4e" />|
+| `ls -lh`      |Lists directory contents with detailed information |<img width="403" height="67" alt="image" src="https://github.com/user-attachments/assets/3a47ec66-3361-484f-bf48-c44e6cd1be50" />|
 
