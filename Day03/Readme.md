@@ -18,16 +18,16 @@ Antivirus uses two methods for analyzing threats:
     * **Sandbox :** In computing, a sandbox is a secure, isolated environment used for testing and executing code, applications, or programs. 
 ## Kali Linux Terminal Commands
 During the class, I explored and executed several basic commands in the Kali Linux terminal the commands which i used are:
-| Command       | Uses                                |
-| ------------- | ----------------------------------- |
-| `ls`          | Lists directory contents            |
-| `cd`          | Changes directory                   |
-| `pwd`         | Shows current directory path        |
-| `mkdir`       | Creates a new directory             |
-| `rmdir`       | Deletes an empty directory          |
-| `touch`       | Creates a new empty file            |
-| `man`         | Opens the manual page for a command |
-| `echo`        | Prints a message to terminal        |
-| `chmod`       | Changes file permissions            |
-| `clear`       | Clears terminal screen              |
+| Command       | Uses                                |Images |
+| ------------- | ----------------------------------- |-------|
+| `ls`          | Lists directory contents            |<img width="805" height="61" alt="image" src="https://github.com/user-attachments/assets/7a7a5e32-6e38-4a03-a937-8ecf342b69e6" />|
+| `cd`          | Changes directory                   |<img width="257" height="97" alt="image" src="https://github.com/user-attachments/assets/f2889d76-59bc-48b5-950f-4db2cfddacf5" />|
+| `pwd`         | Shows current directory path        |<img width="252" height="60" alt="image" src="https://github.com/user-attachments/assets/eed05587-9c6e-4a1d-9938-1c3d614c3474" />|
+| `mkdir`       | Creates a new directory             |<img width="260" height="105" alt="image" src="https://github.com/user-attachments/assets/054001a9-17eb-4258-aa77-eb6321e9b56c" />|
+| `rmdir`       | Deletes an empty directory          |<img width="235" height="162" alt="image" src="https://github.com/user-attachments/assets/06090a09-0ad1-46db-9c91-90ccfb0d3458" />|
+| `touch`       | Creates a new empty file            |<img width="260" height="115" alt="image" src="https://github.com/user-attachments/assets/6c7831d1-1d23-448b-900b-c260df7e28da" />|
+| `man`         | Opens the manual page for a command |<img width="1901" height="820" alt="image" src="https://github.com/user-attachments/assets/3dd22427-3379-4fe1-9e39-e723db208ae1" /> <img width="176" height="42" alt="image" src="https://github.com/user-attachments/assets/04c9d7ed-1022-4f87-b857-806a9f63d58d" />|
+| `echo`        | Prints a message to terminal        |<img width="193" height="62" alt="image" src="https://github.com/user-attachments/assets/8e226830-3c15-4aa6-8f8e-eaafe4ff54da" />|
+| `chmod`       | Changes file permissions            ||
+| `clear`       | Clears terminal screen              |Before:<img width="1048" height="897" alt="image" src="https://github.com/user-attachments/assets/84b275cc-ab8b-44bf-baef-d9404e5860c0" /> After:<img width="1057" height="302" alt="image" src="https://github.com/user-attachments/assets/45a1d878-5970-4c74-9047-44c41338ad4e" />|
 
