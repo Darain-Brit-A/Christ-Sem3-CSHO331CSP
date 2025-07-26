@@ -38,7 +38,8 @@ During the class, I explored and executed several basic commands in the Kali Lin
 - **x(Execute):** This permission allows user to run the file as a program. 
 - Octal Represtation on permissions
 <img width="634" height="333" alt="image" src="https://github.com/user-attachments/assets/2eb173cc-384a-4932-83ce-b33d87d373dc" />
-<br>
+
+  
 ### Linux File user categories:
 
 In Linux, file and directory permissions control who can access and modify your data. These permissions are assigned based on three distinct categories of users:
